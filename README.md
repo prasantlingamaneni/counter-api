@@ -30,11 +30,8 @@ text2|91 text3|80 text4|70 text5|60
 
 Technologies used
 -----------------
-Core Java
-Spring
+Core Java, Spring
 
 Libraries Used
 ----------------
-Junit
-json-simple
-jackson-databind
+Junit, json-simple, jackson-databind
