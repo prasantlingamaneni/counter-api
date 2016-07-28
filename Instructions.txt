@@ -1,0 +1,10 @@
+Step1: Extract the downloaded Zip i.e. counter-api and copy it to a project location.
+
+Step2: If Maven is already installed in the system then open command prompt and go to the project location.
+
+Step3: After Navigating to counter-api  project location in command prompt run the below command.
+mvn clean install
+
+Step4: After successful run project will be compiled successfully and the test cases gets executed.
+
+Step5: Execute the curl commands
